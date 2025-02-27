@@ -47,7 +47,7 @@ nav ul li a:hover {
     padding: 50px;
     background: url('Photos/1.jpeg') no-repeat center center/cover;
     animation: changeBackground 20s infinite;
-    height: 50vh; /* Increased height to 100% of the viewport height */
+
 }
 
 @keyframes changeBackground {
